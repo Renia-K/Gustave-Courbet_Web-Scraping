@@ -21,7 +21,7 @@ Each entry includes:
 
 ## Included Paintings- Data scraped
 
-`Source`: The Metropolitan Museum of Art's online collection.
+`Source`: The Metropolitan Museum of Art's online collection [www.metmuseum.org].
 
 **Portraits**:
 Louis Gueymard (1822–1880) as Robert le Diable
