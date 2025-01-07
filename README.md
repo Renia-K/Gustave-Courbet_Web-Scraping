@@ -101,8 +101,10 @@ For further details, refer to The Met's full Terms and Conditions [https://www.m
 ## Code and Processing
 The Jupyter Notebook TheMetMuseum_GustaveCourbet.ipynb includes all steps used to create the dataset:
 
-`Web Scraping`: Extracted painting titles, artist name, and image URLs.
+`Web Scraping`: Extracted painting titles, artist name, and image URLs from the Met's online collection.
 `Output`: Saved the final dataset as a CSV file.
+
+In this project, BeautifulSoup, a Python library for parsing HTML and XML documents, was used to scrape and clean the data. This tool enabled the efficient extraction of key information from the Met's online collection, including artwork titles, artist name, and image URLs. Requests was utilized to send HTTP requests and retrieve the web pages of individual artworks, while pandas was employed to organize and structure the collected data into a manageable format for further processing. After extracting the necessary details, the data was saved into a CSV file, ensuring it could be easily accessed for analysis and review. These tools facilitated the process of gathering, cleaning, and storing the data from the Met's collection.
 
 ## Creator 
 This dataset was created and curated by Theodora-Stavroula Korma on behalf of the course Collecting Data, for the MA Digital Humanities. 
