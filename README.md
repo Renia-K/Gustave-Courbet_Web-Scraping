@@ -52,13 +52,12 @@ The Fishing Boat
 Young Ladies of the Village
 The Woman in the Waves
 The Young Bather
-Study of a Nude Man
 Nude with Flowering Branch
 Woman in a Riding Habit (L'Amazone)
 
 **Still Life**:
-Apples
-Spring Flowers
+
+
 
 **Seascapes**:
 Marine: The Waterspout
