@@ -74,7 +74,7 @@ Users must not remove copyright or attribution notices associated with the data 
 For further details, refer to The Met's full Terms and Conditions [https://www.metmuseum.org/policies/terms-and-conditions].
 
 ## Code and Processing
-The Jupyter Notebook TheMetMuseum_GustaveCourbet.ipynb includes all steps used to create the dataset:
+The Jupyter Notebook TheMetMuseum_GustaveCourbet_Final_fixed.ipynb includes all steps used to create the dataset:
 
 `Web Scraping`: Extracted painting titles, artist name, and image URLs from the Met's online collection.
 `Output`: Saved the final dataset as a CSV file.
@@ -88,7 +88,7 @@ This dataset was created and curated by Theodora-Stavroula Korma on behalf of th
 email: t.s.korma@student.rug.nl
 
 ## Usage
-This dataset is provided for educational purposes, intended to support the 2nd assignment for the course **Collecting Data**, of 1b semester of MA Digital Humanities. 
+This dataset is provided for educational purposes, intended to support the final individual assignment for the course **Collecting Data**, of 1b semester of MA Digital Humanities. 
 
 
 
