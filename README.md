@@ -98,7 +98,7 @@ The `Portraits` and `Landscapes and Nature` categories have the largest number o
 
 **Underrepresented Categories**:
 
-The ~Still Life~ category has no works in this dataset, which could mean that Courbet didn't create many still lifes or that they are not part of this particular collection.
+The `Still Life` category has no works in this dataset, which could mean that Courbet didn't create many still lifes or that they are not part of this particular collection.
 Similarly, there are only a few `Seascapes`, despite Courbet's known interest in landscapes. This could indicate that seascapes were a smaller part of his overall body of work.
 
 **Moderately Represented Themes**:
