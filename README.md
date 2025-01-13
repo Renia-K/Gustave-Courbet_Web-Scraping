@@ -16,7 +16,9 @@ and expressive figure studies.
 Each entry includes:
 
 `Title`: The name of the painting.
+
 `Artist`: Confirmed as Gustave Courbet for all entries.
+
 `Image URL`: A direct link to the artwork’s image from The Met's collection.
 
 ## Included Paintings- Data scraped
