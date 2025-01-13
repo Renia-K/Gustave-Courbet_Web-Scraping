@@ -74,6 +74,7 @@ Users must not remove copyright or attribution notices associated with the data 
 For further details, refer to The Met's full Terms and Conditions [https://www.metmuseum.org/policies/terms-and-conditions].
 
 **Understanding CC0, Open Access, and Their Combined Benefits**:
+
 `Creative Commons Zero (CC0)`: Content under the CC0 license is released into the public domain, allowing anyone to use, modify, and share it without restrictions or attribution requirements.
 
 `Open Access (OA)`: Open Access content is freely available to the public, removing paywalls or access barriers, and is often used for scholarly or cultural works.
