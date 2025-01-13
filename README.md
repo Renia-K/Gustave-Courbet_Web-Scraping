@@ -26,33 +26,54 @@ Each entry includes:
 `Source`: The Metropolitan Museum of Art's online collection [www.metmuseum.org].
 
 **Portraits**:
+
 Louis Gueymard (1822–1880) as Robert le Diable
+
 Jo, La Belle Irlandaise
+
 Madame Auguste Cuoq (Mathilde Desportes, 1827–1910)
+
 Alphonse Promayet (1822–1872)
+
 Portrait of a Man
+
 Madame Frederic Breyer (Fanny Hélène Van Bruyssel, 1830–1894)
 
 **Landscapes and Nature**:
+
 The Source of the Loue
+
 A Brook in the Forest
+
 View of Ornans
+
 River and Rocks
+
 The Sea
+
 The Hidden Brook
+
 A Brook in a Clearing
 (possibly "Brook, Valley of Fontcouverte; Study")
 
 **Genre and Animal Studies**:
+
 After the Hunt
+
 Hunting Dogs with Dead Hare
+
 The Fishing Boat
 
 **Nudes and Figures**:
+
 Young Ladies of the Village
+
 The Woman in the Waves
+
 The Young Bather
+
 Nude with Flowering Branch
+
 Woman in a Riding Habit (L'Amazone)
 
 **Still Life**:
@@ -60,7 +81,9 @@ Woman in a Riding Habit (L'Amazone)
 
 
 **Seascapes**:
+
 Marine: The Waterspout
+
 The Calm Sea
 
 ## File Formats 
