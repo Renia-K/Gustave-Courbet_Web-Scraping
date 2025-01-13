@@ -89,6 +89,26 @@ The Jupyter Notebook TheMetMuseum_GustaveCourbet_Final_fixed.ipynb includes all 
 
 In this project, BeautifulSoup, a Python library for parsing HTML and XML documents, was used to scrape and clean the data. This tool enabled the efficient extraction of key information from the Met's online collection, including artwork titles, artist name, and image URLs. Requests was utilized to send HTTP requests and retrieve the web pages of individual artworks, while pandas was employed to organize and structure the collected data into a manageable format for further processing. After extracting the necessary details, the data was saved into a CSV file, ensuring it could be easily accessed for analysis and review. These tools facilitated the process of gathering, cleaning, and storing the data from the Met's collection.
 
+## Explanation of the Analysis [bar chart]
+The bar chart shows how Gustave Courbet's artworks in the Met Museum collection are distributed across different categories.
+
+**Most Represented Categories**:
+
+The `Portraits` and `Landscapes and Nature` categories have the largest number of artworks, which isn't surprising because Courbet is well-known for his skill in portraying both people and natural scenes. This tells us that these themes were central to his work and are also prioritized by the museum's collection.
+
+**Underrepresented Categories**:
+
+The ~Still Life~ category has no works in this dataset, which could mean that Courbet didn't create many still lifes or that they are not part of this particular collection.
+Similarly, there are only a few `Seascapes`, despite Courbet's known interest in landscapes. This could indicate that seascapes were a smaller part of his overall body of work.
+
+**Moderately Represented Themes**:
+
+`Nudes and Figures` and `Genre and Animal Studies` have a fair number of works, showing that Courbet explored a range of themes beyond portraits and landscapes.
+
+**Why It's Interesting**:
+
+This analysis gives us a snapshot of Courbet's artistic focus and the museum's collection choices. It helps us see where Courbet concentrated his efforts—on people and nature—while also sparking curiosity about why some categories are less represented.
+
 ## Creator 
 This dataset was created and curated by Theodora-Stavroula Korma on behalf of the course Collecting Data, for the MA Digital Humanities. 
 
