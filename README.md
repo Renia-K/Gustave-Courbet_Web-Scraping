@@ -4,14 +4,14 @@
 
 ## Corpus Overview
 
-This repository contains a curated dataset of 31 paintings by Gustave Courbet. Courbet, a famous artist of the Realist movement, is well-known for
+This repository contains a curated dataset of 30 paintings by Gustave Courbet. Courbet, a famous artist of the Realist movement, is well-known for
 his depictions of everyday life, nature, and portraits that challenge traditional norms and embrace the authenticity of his subjects. Those paintings belong to the permanent collection of European paintings
 department in the Metropolitan Museum. 
 The dataset is designed for art historical analysis, machine learning, or educational purposes, showcasing Courbet's contributions to 19th-century Realism across themes like portraits, landscapes, nudes, and 
 still lifes.
 
 ## Corpus Description
-The dataset includes 31 artworks spanning various themes, genres, and techniques, showcasing Courbet's artistic versatility. The works range from stunning landscapes and intimate portraits to vibrant still lifes 
+The dataset includes 30 artworks spanning various themes, genres, and techniques, showcasing Courbet's artistic versatility. The works range from stunning landscapes and intimate portraits to vibrant still lifes 
 and expressive figure studies.
 Each entry includes:
 
